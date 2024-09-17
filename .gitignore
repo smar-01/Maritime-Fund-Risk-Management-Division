@@ -1,3 +1,27 @@
+# Ignore shared-data and tests directories
+shared-data/
+tests/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore any temporary files
+*.tmp
+*.log
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

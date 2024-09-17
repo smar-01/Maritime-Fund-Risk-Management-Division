@@ -1,0 +1,6 @@
+[submodule "data-retrieval"]
+	path = data-retrieval
+	url = https://github.com/smar-01/data-retrieval.git
+[submodule "data-manipulation"]
+	path = data-manipulation
+	url = https://github.com/smar-01/data-manipulation.git
